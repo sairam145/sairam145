@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sairam145&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <!-- SECTION A: ANIMATED HEADER -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Hi there, I'm Sai Ram Nadipalli!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Hi there, I'm Sai Ram!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineer+%7C+5%2B+Years;Building+govern+%E2%80%94+AI+Agent+Governance;Kubernetes+%7C+Terraform+%7C+AWS+%7C+Azure;Automating+Infrastructure%2C+Now+Governing+Agents)](https://git.io/typing-svg)
 
@@ -14,13 +14,11 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Sai Ram Nadipalli**, a DevOps / Platform Engineer with 5+ years of experience designing and automating cloud infrastructure, currently building tools at the intersection of infrastructure and AI agent safety.
+I'm **Sai Ram**, a DevOps / Platform Engineer with 5+ years of experience designing and automating cloud infrastructure, currently building tools at the intersection of infrastructure and AI agent safety.
 
 - 🛡️ Currently building **[govern](https://github.com/sairam145/govern)** — a policy enforcement layer that catches unsafe AI agent behavior other tools miss, including coordinated actions across multiple agents
 - 🚀 5+ years in DevOps/SRE, working across AWS, Azure, GCP, Kubernetes, and Terraform
-- 🎓 Pursuing an MS in Information Technology at Clark University
-- 🌍 Portfolio and other products: **[devnfra.com](https://devnfra.com)** · **[stemjobs.io](https://stemjobs.io)** · **[refynegpt.com](https://refynegpt.com)**
-- 🎥 Writing about DevOps, cloud, and AI infrastructure on YouTube and Medium
+- 🌍 Other products: **[devnfra.com](https://devnfra.com)** · **[stemjobs.io](https://stemjobs.io)**
 - 💬 Ask me about Kubernetes, Terraform, AI agent security, or platform engineering
 
 ---
@@ -41,6 +39,16 @@ govern init && govern demo
 - Live dashboard, full audit trail, Docker/kubectl-style CLI
 
 → [Read more / try it](https://github.com/sairam145/govern)
+
+---
+
+## 📜 Certifications
+
+![AWS CCP](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP ACE](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-Certified-00A4EF?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -81,19 +89,6 @@ govern init && govern demo
 
 ---
 
-## 🌐 Find Me Online
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-sai-ram)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sairam145)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sairam145)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://devnfra.com)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -127,7 +122,6 @@ govern init && govern demo
 
 Open to conversations on AI agent safety, DevOps/platform engineering, or collaboration on `govern`.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-sai-ram)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://devnfra.com)
+[![Email](https://img.shields.io/badge/Email-sairamma9893%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairamma9893@gmail.com)
 
 </div>
