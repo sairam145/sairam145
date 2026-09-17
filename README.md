@@ -6,28 +6,44 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Hi there, I'm Sai Ram Nadipalli!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+5+Years+Experience;Kubernetes+%7C+Docker+%7C+AWS+%7C+Azure;Building+Scalable+Infrastructure;Automating+Everything+with+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Platform+Engineer+%7C+5%2B+Years;Building+govern+%E2%80%94+AI+Agent+Governance;Kubernetes+%7C+Terraform+%7C+AWS+%7C+Azure;Automating+Infrastructure%2C+Now+Governing+Agents)](https://git.io/typing-svg)
 
 ---
 
 </div>
 
-<!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-Hey! I'm **Sai Ram Nadipalli**, a passionate **DevOps Engineer** with **5+ years** of experience designing, automating, and maintaining cloud infrastructure. I thrive on turning complex deployment pipelines into smooth, reliable systems.
+I'm **Sai Ram Nadipalli**, a DevOps / Platform Engineer with 5+ years of experience designing and automating cloud infrastructure, currently building tools at the intersection of infrastructure and AI agent safety.
 
-- 🚀 Currently working as a **DevOps Engineer** building scalable, resilient cloud infrastructure
-- 🎥 Creating DevOps & Cloud content on **YouTube, Medium, and Instagram**
-- 🌍 Check out my portfolio at **[devnfra.com](https://devnfra.com)**
-- ⚡ Fun fact: I automate my coffee machine... just kidding (or am I?)
-- 🎯 Goal: Making infrastructure as code the norm, not the exception
-- 🧠 Always learning: Currently exploring **GitOps** and **Platform Engineering**
-- 💬 Ask me about **Kubernetes, Docker, AWS, Azure, or Terraform**
+- 🛡️ Currently building **[govern](https://github.com/sairam145/govern)** — a policy enforcement layer that catches unsafe AI agent behavior other tools miss, including coordinated actions across multiple agents
+- 🚀 5+ years in DevOps/SRE, working across AWS, Azure, GCP, Kubernetes, and Terraform
+- 🎓 Pursuing an MS in Information Technology at Clark University
+- 🌍 Portfolio and other products: **[devnfra.com](https://devnfra.com)** · **[stemjobs.io](https://stemjobs.io)** · **[refynegpt.com](https://refynegpt.com)**
+- 🎥 Writing about DevOps, cloud, and AI infrastructure on YouTube and Medium
+- 💬 Ask me about Kubernetes, Terraform, AI agent security, or platform engineering
 
 ---
 
-<!-- SECTION C: TECH STACK -->
+## 🛡️ Featured Project: govern
+
+**Non-cooperative policy enforcement for AI agents.** Most agent governance tools check one action at a time. `govern` also catches what happens when multiple individually-authorized agent actions combine into something none of them should have produced alone — and, with chain-aware rules, when the same action should be treated differently based on what happened right before it.
+
+```bash
+pip install govern-agent
+govern init && govern demo
+```
+
+- Non-cooperative interception — wraps the actual client/tool call, not a self-reported hook
+- Cross-agent collusion detection (`aggregate_rules`)
+- Chain-aware policy rules — same action, different outcome, based on chain context
+- `policy simulate` — test a new rule against real history before enforcing it live
+- Live dashboard, full audit trail, Docker/kubectl-style CLI
+
+→ [Read more / try it](https://github.com/sairam145/govern)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
@@ -65,7 +81,6 @@ Hey! I'm **Sai Ram Nadipalli**, a passionate **DevOps Engineer** with **5+ years
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
 ## 🌐 Find Me Online
 
 <div align="center">
@@ -73,14 +88,12 @@ Hey! I'm **Sai Ram Nadipalli**, a passionate **DevOps Engineer** with **5+ years
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-sai-ram)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sairam145)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sairam145)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sairam145)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://devnfra.com)
 
 </div>
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -98,7 +111,6 @@ Hey! I'm **Sai Ram Nadipalli**, a passionate **DevOps Engineer** with **5+ years
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -109,24 +121,13 @@ Hey! I'm **Sai Ram Nadipalli**, a passionate **DevOps Engineer** with **5+ years
 
 ---
 
-<!-- SECTION H: FOOTER -->
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to interesting conversations, collaboration, and new opportunities. Feel free to reach out!
+Open to conversations on AI agent safety, DevOps/platform engineering, or collaboration on `govern`.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-sai-ram)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://devnfra.com)
-
-<br/>
-
-> *"Infrastructure is not just code — it's the foundation that empowers teams to ship with confidence."*
-
----
-
-⭐️ **If you find my work useful, consider giving it a star!** ⭐️
-
-**Thanks for visiting my profile! Happy automating! 🚀**
 
 </div>
